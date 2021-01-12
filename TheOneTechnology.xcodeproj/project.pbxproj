@@ -16,6 +16,8 @@
 		1866940225AD841100CE0E32 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1866940025AD841100CE0E32 /* LaunchScreen.storyboard */; };
 		1866940D25AD841100CE0E32 /* TheOneTechnologyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866940C25AD841100CE0E32 /* TheOneTechnologyTests.swift */; };
 		1866941825AD841100CE0E32 /* TheOneTechnologyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866941725AD841100CE0E32 /* TheOneTechnologyUITests.swift */; };
+		1866943125AD877B00CE0E32 /* iVergeByHp in Resources */ = {isa = PBXBuildFile; fileRef = 1866943025AD877B00CE0E32 /* iVergeByHp */; };
+		1866943625AD878100CE0E32 /* Podfile in Resources */ = {isa = PBXBuildFile; fileRef = 1866943525AD878000CE0E32 /* Podfile */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,7 +53,8 @@
 		1866941325AD841100CE0E32 /* TheOneTechnologyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheOneTechnologyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1866941725AD841100CE0E32 /* TheOneTechnologyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheOneTechnologyUITests.swift; sourceTree = "<group>"; };
 		1866941925AD841100CE0E32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1866942825AD86E200CE0E32 /* iVerge */ = {isa = PBXFileReference; lastKnownFileType = folder; path = iVerge; sourceTree = "<group>"; };
+		1866943025AD877B00CE0E32 /* iVergeByHp */ = {isa = PBXFileReference; lastKnownFileType = folder; path = iVergeByHp; sourceTree = "<group>"; };
+		1866943525AD878000CE0E32 /* Podfile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Podfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +85,8 @@
 		186693E625AD841000CE0E32 = {
 			isa = PBXGroup;
 			children = (
-				1866942825AD86E200CE0E32 /* iVerge */,
+				1866943025AD877B00CE0E32 /* iVergeByHp */,
+				1866943525AD878000CE0E32 /* Podfile */,
 				186693F125AD841000CE0E32 /* TheOneTechnology */,
 				1866940B25AD841100CE0E32 /* TheOneTechnologyTests */,
 				1866941625AD841100CE0E32 /* TheOneTechnologyUITests */,
@@ -236,10 +240,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1866942925AD86E200CE0E32 /* iVerge in Resources */,
+				1866943625AD878100CE0E32 /* Podfile in Resources */,
 				1866940225AD841100CE0E32 /* LaunchScreen.storyboard in Resources */,
 				186693FF25AD841100CE0E32 /* Assets.xcassets in Resources */,
 				186693FA25AD841000CE0E32 /* Main.storyboard in Resources */,
+				1866943125AD877B00CE0E32 /* iVergeByHp in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
