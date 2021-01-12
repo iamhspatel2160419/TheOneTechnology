@@ -16,7 +16,6 @@
 		1866940225AD841100CE0E32 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1866940025AD841100CE0E32 /* LaunchScreen.storyboard */; };
 		1866940D25AD841100CE0E32 /* TheOneTechnologyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866940C25AD841100CE0E32 /* TheOneTechnologyTests.swift */; };
 		1866941825AD841100CE0E32 /* TheOneTechnologyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1866941725AD841100CE0E32 /* TheOneTechnologyUITests.swift */; };
-		1866942925AD86E200CE0E32 /* iVerge in Resources */ = {isa = PBXBuildFile; fileRef = 1866942825AD86E200CE0E32 /* iVerge */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
